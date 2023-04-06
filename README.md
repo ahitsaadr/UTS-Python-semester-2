@@ -1,1 +1,3 @@
 # UTS-Python-semester-2
+
+Pada langkah pertama, user melakukan insert atau menambahkan data pada tabel database yang meliputi id barang, nama barang, harga barang dst. Kemudian lanjut pada step selanjutnya user melakukan show data yang memiliki maksud menampilkan data yang telah di insert sebelumnya. setelah itu, user melakukan update data yang mana data yang di insert dapat di update/diubah sesuai keinginan dari user. lalu lanjut user melakukan delate pada data, user dapat menghapus data sesuai dengan keinginannya. kemudian step berikutnya user melakukan cari data dengan menggunakan id barang sehingga hasilnya akan dapat muncul. langkah terakhir user keluar dari program tersebut yang nanti akan muncul sebuah kalimat see you next time.
